@@ -65,11 +65,26 @@ hr {
     background-color: #fff;
 }
 
+#sitemenu ul li a#here {
+    color: #333;
+    background-color: #fff;
+}
+
 #text {
     padding: 5px;
     padding-left: 15px;
     padding-right: 15px;
     text-align: justify;
+}
+
+#text img {
+    max-width: 760px;
+    max-height: 551px;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #fff;
 }
 
 #sitefooter {
