@@ -39,6 +39,10 @@ ul li {
     padding-top: 10px;
 }
 
+#contents h2 {
+    font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
 #siteheader {
     font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
     text-align: center;
